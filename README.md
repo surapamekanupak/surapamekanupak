@@ -1,5 +1,7 @@
 ## Hi there, I'm Surapa Mekanupak 👋
-Welcome to my GitHub! I'm second-year Computer Engineering Student
+Welcome to my GitHub! 
+
+I'm second-year Computer Engineering Student
 
 ## Languages and Tools
 
